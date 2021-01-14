@@ -7,7 +7,7 @@ Prototip desenvolupat amb AdobeXd, el qual mostra a través de la interfície gr
 ## Funcionalitats destacades
 ### Optimització automàtica dels recursos disponibles
 Fent ús del mínim d'espais possibles, aquests s'aprofiten el màxim d'hores possible tot respectant les mesures sanitàries actuals.
-Aquesta funcionalitat permet a les empreses reduir despeses tant de personal gestor com de infraestructura física des del primer moment.
+Aquesta funcionalitat permet a les empreses reduir despeses tant de personal gestor com d'infraestructura física des del primer moment.
 
 ### Confirmació d'assistència amb NFC o QR + geolocalització
 Cada sala o lloc reservable disposaria d'una d'aquestes dues tecnologies, en funció de la despesa que es vulgui dur a terme, per tal de confirmar que s'ha assistit a la reserva programada.
