@@ -1,7 +1,7 @@
 # PAE - LineItUp!
 Projecte proposat per Clariba, consistent en el desenvolupament d'un prototip d'un sistema de reserva de sales compartit.
 
-### [Enllaç per a provar el prototip](t.ly/nuZf)
+### [Enllaç per a provar el prototip](https://t.ly/nuZf)
 
 ## Continguts
 Prototip desenvolupat amb AdobeXd, el qual mostra a través de la interfície gràfica les diferents funcionalitats i casos d'ús del sistema.
