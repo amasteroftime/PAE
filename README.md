@@ -20,8 +20,3 @@ Fàcil integració de LineItUp amb sistemes software ja existents dins de les em
 ### Notificació Covid
 Si una persona és positiva en Covid-19 o s'ha de confinar, ho pot comunicar de forma confidencial a través de LineItUp. En cas que sigui positiva, es tracen tots els contactes estrets que hagi tingut en reserves i se'ls hi comunica.
 
-## Autors:
-#### - Sheida Alfaro
-#### - Jordi Cluet
-#### - Jan Escorza
-#### - Joan Gámez
